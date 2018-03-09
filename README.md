@@ -1,3 +1,5 @@
+<img src="./smalllogo.png"/>
+
 # Small
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg?style=for-the-badge)
 ### An Esoteric 🔥 Programming Language
