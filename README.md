@@ -1,9 +1,10 @@
-# Small
+# Small++
 ### An Esoteric 🔥Programming Language
-### This is an implementation of [Small](https://esolangs.org/wiki/Small) in Python
+### Small++ is inspired from [Small](https://esolangs.org/wiki/Small)
+### Small++ is implementated in Python
 
 
-## Hello World in Small
+## Hello World
 ```
 +++++++ +++++++ +++++++ +++++++ +++++++ +++++++ +++++++ +++++++ +++++++ +++++++ ++ .
 
