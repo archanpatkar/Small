@@ -1,7 +1,6 @@
 # Small
 ### An Esoteric 🔥 Programming Language
-### It is an implementation of [Small](https://esolangs.org/wiki/Small) with some Extenstions
-#### It is implementated in Python
+### It is an implementation of [Small](https://esolangs.org/wiki/Small) with some Extensions
 
 
 ## Hello World! 💣
